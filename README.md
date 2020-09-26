@@ -1,1 +1,1 @@
-# I've moved my account to [github.com/adamzapasnik](https://github.com/adamzapasnik)
+# I've moved my account to [@adamzapasnik](https://github.com/adamzapasnik)
